@@ -23,9 +23,12 @@ public class AppConstants {
   static {
     List<Constants.EmbeddedResponse> embeddedResponses = new ArrayList<>();
 
-    // ADD EMBEDDED RESPONSES HERE
-    // START EMBEDDED RESPONSES
-    // END EMBEDDED RESPONSES
+    
+        // ADD EMBEDDED RESPONSES HERE
+        // START EMBEDDED RESPONSES
+        embeddedResponses.add(new Constants.EmbeddedResponse("https://exp.host/@sgarciaanato/react-native-boilerplate", "assets://shell-app-manifest.json", "application/json"));
+        embeddedResponses.add(new Constants.EmbeddedResponse("https://d1wp6m56sqw74a.cloudfront.net/%40sgarciaanato%2Freact-native-boilerplate%2F1.0.0%2Fbf35b1e3daf519978d03cea3bbd8be0c-32.0.0-android.js", "assets://shell-app.bundle", "application/javascript"));
+        // END EMBEDDED RESPONSES
     EMBEDDED_RESPONSES = embeddedResponses;
   }
 
