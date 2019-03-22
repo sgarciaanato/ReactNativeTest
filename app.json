@@ -24,7 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.cencosud.reactnativeboilerplate",
+      "bundleIdentifier": "com.sgarciaanato.ReactNative",
       "publishBundlePath": "ios/react-native-boilerplate/Supporting/shell-app.bundle",
       "publishManifestPath": "ios/react-native-boilerplate/Supporting/shell-app-manifest.json",
       "icon": "./assets/images/icon.png",
