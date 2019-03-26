@@ -393,9 +393,9 @@
 				DEVELOPMENT_TEAM = VHNQM2U5QT;
 				INFOPLIST_FILE = "$(SRCROOT)/react-native-boilerplate/Supporting/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sgarciaanato.ReactNative;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sgarciaanato.brrn1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = SamuelDevelopmentProvisioningProfile;
+				PROVISIONING_PROFILE_SPECIFIER = DevelopmentWildCart1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -410,9 +410,9 @@
 				DEVELOPMENT_TEAM = VHNQM2U5QT;
 				INFOPLIST_FILE = "$(SRCROOT)/react-native-boilerplate/Supporting/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sgarciaanato.ReactNative;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sgarciaanato.brrn1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = SamuelDevelopmentProvisioningProfile;
+				PROVISIONING_PROFILE_SPECIFIER = DevelopmentWildCart1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
